@@ -1,6 +1,7 @@
 # fitness_one_application
 
 A new Flutter project.
+it contains fitness tracking details.
 
 ## Getting Started
 
